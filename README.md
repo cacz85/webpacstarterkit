@@ -1,4 +1,4 @@
-``
+
 # Kit Webpack de configuración
 ### Kit listo para usar y trabajar con las siguientes tecnologiás
 ``
@@ -8,13 +8,13 @@
 * POSTCSS
 * BABEL
 
-``
+
 Preconfigurado para usar y trabajar con
   * VanillaJS
   * React
   * VueJS
   * TypeScript
-``
+
 
 ### Uso del Kit, Se debe instalar los modulos de node para su funcionamiento
   * npm install
